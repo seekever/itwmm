@@ -54,7 +54,7 @@ These differences result to a simplified version of our image and video fitting 
 ### Installation
 
 1. Follow the instructions to [install the Menpo Project with conda](http://www.menpo.org/installation/conda.html).
-2. Whilst in the conda environment containing menpo, run `pip install git+https://github.com/menpo/itwmm`.
+2. Whilst in the conda environment containing menpo, run `pip install git+https://github.com/seekever/itwmm`.
 3. Download a [copy of the code](https://github.com/menpo/itwmm/archive/master.zip) into your Downloads folder.
 4. Run `jupyter notebook` and navigate to the `notebooks` directory in the 
 downloaded folder.
